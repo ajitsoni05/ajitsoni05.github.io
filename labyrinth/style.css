@@ -13,7 +13,7 @@ body {
   margin: 0; color: var(--paper); font: 17px/1.6 var(--sans);
   background: radial-gradient(ellipse 90% 60% at 50% -10%, #3b2a1e 0%, var(--bg) 65%) no-repeat, var(--bg);
 }
-img { display: block; max-width: 100%; height: auto; }
+img, video { display: block; max-width: 100%; height: auto; }
 a { color: var(--brass); }
 a:hover { color: var(--brass-bright); }
 h1, h2, h3 { font-family: var(--serif); font-weight: 600; line-height: 1.2; }

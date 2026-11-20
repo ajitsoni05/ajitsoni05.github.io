@@ -34,7 +34,11 @@
 <a class="button button-gold" href="https://testflight.apple.com/join/ynHM7mc5">Join the beta on TestFlight</a>
 <a class="button button-quiet" href="#features">See what's inside</a>
 </div>
-<figure class="shot hero-shot"><img src="images/iphone-01-classic.jpg" width="1434" height="660" alt="The Classic: a walnut labyrinth board with a steel ball, maple walls, holes and a red gem."></figure>
+<figure class="shot hero-shot"><video data-promo src="images/labyrinth-promo.mp4" poster="images/labyrinth-promo.jpg" width="1280" height="720" autoplay muted loop playsinline controls aria-label="The promo: a steel ball rolling through wooden, gold and neon tilt mazes, more balls and boards, the Daily Maze, and the game on Apple Watch."></video></figure>
+<script>
+// With reduced motion, the promo waits for a press of play.
+if (matchMedia("(prefers-reduced-motion: reduce)").matches) { const v = document.querySelector("[data-promo]"); v.removeAttribute("autoplay"); v.pause(); }
+</script>
 </section>
 
 <section class="facts" aria-label="At a glance">
