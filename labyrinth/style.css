@@ -55,7 +55,6 @@ strong { color: var(--paper); }
 .button-gold:hover { color: #1d140d; filter: brightness(1.06); }
 .button-quiet { border: 1px solid var(--line); background: var(--panel); color: var(--paper); }
 .button-quiet:hover { color: var(--paper); background: var(--panel-2); }
-.soon { cursor: default; }
 .shot { margin: 0; border-radius: 18px; overflow: hidden; border: 1px solid var(--line); background: #2b2824; box-shadow: 0 24px 60px rgba(0, 0, 0, 0.55); }
 .hero-shot { margin-top: 48px; }
 @media (min-width: 720px) { .hero-shot { border-radius: 26px; } }
