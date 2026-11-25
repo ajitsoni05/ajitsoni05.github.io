@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Pages served from this repo. The portfolio's own sitemap is at /portfolio/sitemap.xml. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ajitsoni05.github.io/labyrinth/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
+    <loc>https://ajitsoni05.github.io/labyrinth/support.html</loc>
+    <lastmod>2026-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://ajitsoni05.github.io/labyrinth/privacy.html</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+</urlset>

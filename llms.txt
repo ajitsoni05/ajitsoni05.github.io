@@ -1,0 +1,36 @@
+# Ajit Soni
+
+> Full-stack product engineer in Bengaluru, India. Senior Software Engineer at Distill.io since November 2024, and Software Engineer at Amagi from 2022 to 2024. Builds and ships his own products: the FocalReader and FocalTabs browser extensions, and Labyrinth: Steel & Wood, a tilt-maze game for iPhone and iPad.
+
+Strongest in Go and Node.js, and owns the UI in Svelte and TypeScript too. At Distill.io he owns the web-page archival pipeline and built the in-product search engine. Studied Electrical and Electronics Engineering at NIT Trichy (2018–2022).
+
+## Portfolio
+
+- [Portfolio](https://ajitsoni05.github.io/portfolio/): experience, products, projects, writing and contact details
+
+## Products
+
+- [FocalReader](https://focalreader.com): a reading spotlight browser extension for people with ADHD and dyslexia, on Chrome and Firefox
+- [Labyrinth: Steel & Wood](https://ajitsoni05.github.io/labyrinth/): the wooden tilt-maze toy as an iPhone and iPad game, in public beta on TestFlight
+- [FocalTabs](https://chromewebstore.google.com/detail/focaltabs/ogcpbfooclilidipalggkblcggicndik): time-aware tab management for Chrome
+
+## Projects
+
+- [mini-spark](https://github.com/ajitsoni05/mini-spark): a Spark-style data engine in Scala 3, with lazy RDDs, a DAG scheduler and lineage-based recovery
+- [mhtml-go](https://github.com/ajitsoni05/mhtml-go): a lossless MHTML parser in Go with no dependencies outside the standard library
+- [Go Redis](https://github.com/ajitsoni05/go-redis): an in-memory key-value store in Go
+- [Travel Plan](https://ajitsoni05.github.io/TravelPlan/): a multi-modal route planner across air and rail networks
+
+## Writing
+
+- [Medium](https://medium.com/@ajitsoni000005): build stories about his products, and short explainers on system design, caches and networking
+
+## Profiles
+
+- [GitHub](https://github.com/ajitsoni05)
+- [LinkedIn](https://www.linkedin.com/in/ajitsoni05/)
+- [LeetCode](https://leetcode.com/u/ajitsoni/)
+
+## Contact
+
+- Email: ajitsoni000005@gmail.com
