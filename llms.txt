@@ -1,8 +1,8 @@
 # Ajit Soni
 
-> Full-stack product engineer in Bengaluru, India. Senior Software Engineer at Distill.io since November 2024, and Software Engineer at Amagi from 2022 to 2024. Builds and ships his own products: the FocalReader and FocalTabs browser extensions, and Labyrinth: Steel & Wood, a tilt-maze game for iPhone and iPad.
+> Full-stack product engineer in Bengaluru, India. Senior Software Engineer at Distill.io since November 2024, and Software Engineer at Amagi from 2022 to 2024. Also builds and ships independent products: the FocalReader and FocalTabs browser extensions, and Labyrinth: Steel & Wood, a tilt-maze game for iPhone and iPad.
 
-Strongest in Go and Node.js, and owns the UI in Svelte and TypeScript too. At Distill.io he owns the web-page archival pipeline and built the in-product search engine. Studied Electrical and Electronics Engineering at NIT Trichy (2018–2022).
+Strongest in Go and Node.js, and owns the UI in Svelte and TypeScript too. At Distill.io: owns the web-page archival pipeline and built the in-product search engine. Studied Electrical and Electronics Engineering at NIT Trichy (2018–2022).
 
 ## Portfolio
 
@@ -23,7 +23,7 @@ Strongest in Go and Node.js, and owns the UI in Svelte and TypeScript too. At Di
 
 ## Writing
 
-- [Medium](https://medium.com/@ajitsoni000005): build stories about his products, and short explainers on system design, caches and networking
+- [Medium](https://medium.com/@ajitsoni000005): build stories about these products, and short explainers on system design, caches and networking
 
 ## Profiles
 
